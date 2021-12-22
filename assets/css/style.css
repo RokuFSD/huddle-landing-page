@@ -37,8 +37,9 @@
 
 /*========== LAYOUT ======== */
 .container {
-  max-width: 100%;
+  max-width: 1200px;
   padding: 3% 5%;
+  margin: 0 auto;
 }
 
 .flex {
