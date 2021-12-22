@@ -64,7 +64,7 @@
 
 body {
   background-color: var(--first-color);
-  background-image: url('assets/img/bg-desktop.svg');
+  background-image: url(../img/bg-desktop.svg);
   color: var(--text-color);
   background-size: cover;
   background-repeat: no-repeat;
